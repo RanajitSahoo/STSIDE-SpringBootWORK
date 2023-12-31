@@ -70,6 +70,8 @@ public class MyFirstwebProject1Application {
 	//delete all users
 //	userRepository.deleteAll();
 	
+	List<User> users = userRepository.findByName("Ranajit");
+	users.forEach(e->System.out.println(e));
 	
 	}
 
