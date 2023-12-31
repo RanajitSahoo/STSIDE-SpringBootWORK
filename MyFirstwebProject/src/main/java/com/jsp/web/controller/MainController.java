@@ -20,5 +20,6 @@ public class MainController {
 		System.out.println("This is contact");
 		return "contact";
 	}
+	
 
 }
