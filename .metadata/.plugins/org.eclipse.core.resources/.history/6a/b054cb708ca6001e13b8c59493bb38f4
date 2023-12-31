@@ -1,0 +1,5 @@
+package com.jsp.jpa.entities;
+
+public class User {
+
+}

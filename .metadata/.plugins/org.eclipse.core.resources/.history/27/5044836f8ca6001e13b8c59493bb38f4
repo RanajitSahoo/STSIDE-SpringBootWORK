@@ -1,0 +1,5 @@
+package com.jsp.jpa.Repository;
+
+public interface UserRepository {
+
+}

@@ -1,0 +1,13 @@
+package com.jsp.jpa;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyFirstwebProject1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyFirstwebProject1Application.class, args);
+	}
+
+}
